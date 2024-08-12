@@ -28,6 +28,7 @@ inquirer.prompt([
     },
     ]).then((answers) => {
     const svgContent = generateSVG(answers);
-    const filePath = path.join(__dirname, 'examples', 'logo.svg');
+    const fileName = `${answers.shape.toLowerCase()}.svg`;
+    const filePath = path.join(__dirname, 'examples', fileName);
     saveSVG(filePath, svgContent);
     });
