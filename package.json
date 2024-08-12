@@ -1,0 +1,25 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "a command line application to generate .svg file based on user prompted inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/leontran44/svg-logo-maker"
+  },
+  "keywords": [
+    "svg",
+    "node.js"
+  ],
+  "author": "Leon Tran",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^10.1.8"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
