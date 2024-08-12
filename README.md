@@ -30,6 +30,10 @@ Checkout this [video](https://drive.google.com/file/d/1IOGv9yyRk8QkZgEIwh3Q9B7D5
 
 [svg-logo-maker.webm](https://github.com/user-attachments/assets/e405c170-1390-4075-aaa0-90887cf936e7)
 
+### Unit Tests Results
+
+[unit-tests.webm](https://github.com/user-attachments/assets/18870eb5-0543-414f-a044-4f1d09b259f1)
+
 ## Installation
 
 - To run this application, you will need to have Node.js installed on your computer. If you do not have Node.js installed, visit the [Node.js website](https://nodejs.org/en) to install.
